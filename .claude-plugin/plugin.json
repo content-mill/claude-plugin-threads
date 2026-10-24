@@ -1,7 +1,8 @@
 {
   "name": "content-mill-threads",
+  "displayName": "Threads by Content Mill",
   "description": "Schedule and publish Threads posts from chat: write posts within the 500-character limit, add photos or video, preview each one, and track what's scheduled. Threads scheduler by Content Mill.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": {
     "name": "Content Mill",
     "email": "support@contentmill.dev",
