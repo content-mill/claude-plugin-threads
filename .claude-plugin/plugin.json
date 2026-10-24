@@ -1,0 +1,22 @@
+{
+  "name": "content-mill-threads",
+  "description": "Schedule and publish Threads posts from chat: write posts within the 500-character limit, add photos or video, preview each one, and track what's scheduled. Threads scheduler by Content Mill.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Content Mill",
+    "email": "support@contentmill.dev",
+    "url": "https://contentmill.dev"
+  },
+  "homepage": "https://contentmill.dev",
+  "repository": "https://github.com/content-mill/claude-plugin-threads",
+  "license": "MIT",
+  "keywords": [
+    "threads",
+    "meta threads",
+    "threads scheduler",
+    "scheduler",
+    "social media",
+    "mcp",
+    "content mill"
+  ]
+}
